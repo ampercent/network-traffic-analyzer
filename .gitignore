@@ -1,0 +1,10 @@
+# Ignore pcap and generated reports
+captures/*.pcap
+captures/*.png
+captures/*.html
+reports/*.html
+reports/*.png
+reports/*.json
+__pycache__/
+*.pyc
+.env
